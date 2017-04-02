@@ -1,0 +1,14 @@
+{
+  "name": "any-inventory",
+  "version": "0.0.1",
+  "description": "A dynamic inventory system that uses a non-relational database to store various types of objects",
+  "author": {
+    "name": "Nicholas Dolan",
+    "email": "nicholas.dolan1@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
